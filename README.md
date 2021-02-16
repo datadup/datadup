@@ -1,4 +1,5 @@
-### Hi there 👋
+# This is the GitHub page for DataDUB
+### 🔭 I’m currently working on a landingpage for my future repositories - you can take a look here: [Landingpage](datadup.github.io)
 
 <!--
 **datadup/datadup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +14,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- Hi there 👋
 -->
