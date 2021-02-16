@@ -1,4 +1,4 @@
-## This is the DataDUP
+## Data DUP
 ### The place for 'dupping' with data and data visualization
 🔭 I’m currently working on a landingpage for my future repositories
   ... you can take a look here: [Landingpage](https://datadup.github.io)
