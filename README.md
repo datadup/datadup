@@ -1,5 +1,4 @@
-💬 I’m currently working on a landingpage for my future repositories
-  ... you can take a look here: [Landingpage](https://datadup.github.io)
+💬 I’m currently working on a [Landingpage](https://datadup.github.io) for my future repositories.
 
 <!--
 **datadup/datadup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
