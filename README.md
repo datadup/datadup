@@ -1,4 +1,4 @@
-🔭 I’m currently working on a landingpage for my future repositories
+💬 I’m currently working on a landingpage for my future repositories
   ... you can take a look here: [Landingpage](https://datadup.github.io)
 
 <!--
